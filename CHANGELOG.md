@@ -1,3 +1,9 @@
+#### 1.0.1 (2022-12-21)
+
+##### Documentation Changes
+
+*  updated readme ([01b85414](https://github.com/Cadienvan/conditional-fn/commit/01b85414e95fb108e2fc3aeee5be39d7b322f217))
+
 ## 1.0.0 (2022-12-21)
 
 ##### New Features

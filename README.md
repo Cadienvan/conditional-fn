@@ -1,6 +1,7 @@
 # What is this?
 
-https://github.com/Cadienvan/conditional-fn
+A higher-order function to provide a Feature Flag mechanism with multiple weights.
+
 # How do I install it?
 
 ```bash

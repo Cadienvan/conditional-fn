@@ -2,7 +2,7 @@
   "name": "conditional-fn",
   "description": "A higher-order function to provide a Feature Flag mechanism with multiple weights.",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",

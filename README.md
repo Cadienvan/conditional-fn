@@ -1,6 +1,6 @@
 # What is this?
 
-A higher-order function to provide a Feature Flag mechanism with multiple weights.
+A higher-order function to provide a Feature Flag mechanism.
 
 # How do I install it?
 

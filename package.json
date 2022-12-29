@@ -1,6 +1,6 @@
 {
   "name": "conditional-fn",
-  "description": "A higher-order function to provide a Feature Flag mechanism with multiple weights.",
+  "description": "A higher-order function to provide a Feature Flag mechanism.",
   "private": false,
   "version": "1.0.1",
   "main": "dist/index.js",

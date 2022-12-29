@@ -1,3 +1,9 @@
+## 2.0.0 (2022-12-29)
+
+##### New Features
+
+*  provided real hof functionality ([a857d9af](https://github.com/Cadienvan/conditional-fn/commit/a857d9af89b57a9bea2d2bdac0cc236e9e541242))
+
 #### 1.0.1 (2022-12-21)
 
 ##### Documentation Changes

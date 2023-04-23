@@ -1,3 +1,14 @@
+#### 2.0.1 (2023-04-23)
+
+##### Continuous Integration
+
+*  Added Node 20 in ci test matrix ([b3caaabd](https://github.com/Cadienvan/conditional-fn/commit/b3caaabd8c6840032b0cf534cdd9ccfc77132bda))
+*  Added Node CI ([c2fd12b9](https://github.com/Cadienvan/conditional-fn/commit/c2fd12b9e110bae6788db79ca41ad2356501358b))
+
+##### Documentation Changes
+
+*  updated documentation for better clearance ([52c71510](https://github.com/Cadienvan/conditional-fn/commit/52c71510f668a4b20cca3eb6a835f4a56ae1ce81))
+
 ## 2.0.0 (2022-12-29)
 
 ##### New Features

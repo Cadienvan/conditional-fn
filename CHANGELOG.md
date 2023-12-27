@@ -1,3 +1,9 @@
+#### 2.0.2 (2023-12-27)
+
+##### Chores
+
+*  update dependencies ([14cb034a](https://github.com/Cadienvan/conditional-fn/commit/14cb034a4c66b050f0a1705ad1c6a5578f6eb479))
+
 #### 2.0.1 (2023-04-23)
 
 ##### Continuous Integration
